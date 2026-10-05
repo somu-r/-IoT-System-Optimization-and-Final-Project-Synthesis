@@ -1,0 +1,14 @@
+{
+  "project": "IoT System Optimization \u2013 Smart Environmental Monitoring",
+  "generated_files": [
+    "Week6_IoT_Optimization_Report.docx",
+    "README.md",
+    "simulation/iot_optimization_simulation.py",
+    "logs/baseline_log.csv",
+    "logs/optimized_log.csv",
+    "results/comparison.csv"
+  ],
+  "seed": 42,
+  "nodes": 20,
+  "simulation_seconds": 100
+}

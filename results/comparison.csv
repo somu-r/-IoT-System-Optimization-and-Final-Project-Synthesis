@@ -1,0 +1,9 @@
+Metric,Baseline,Optimized,Improvement
+Transmissions,2000,701,65.0% reduction
+Average latency (ms),161.00,98.74,38.7% reduction
+P95 latency (ms),203.24,119.50,41.2% reduction
+Success rate (%),98.95,99.71,+0.76 pp
+Retries,53,5,90.6% reduction
+Total bytes,108000,26638,75.3% reduction
+Throughput (kbps),8.64,2.13,75.3% offered traffic
+Total energy (mJ),8701.56,2036.30,76.6% reduction
